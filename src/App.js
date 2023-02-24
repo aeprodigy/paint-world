@@ -1,23 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from "react";
+import {FaPaintRoller} from 'react-icons/fa'
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className=" bg-pink-400 flex">
+      <div>
+        
+      </div>
+      <FaPaintRoller className="text-4xl text-white"/>
+      <h1 className="text-white font-semibold text-4xl">aint</h1>
     </div>
   );
 }

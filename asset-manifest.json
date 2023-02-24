@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paint-world/static/css/main.22deef3f.css",
+    "main.js": "/paint-world/static/js/main.a98f285a.js",
+    "index.html": "/paint-world/index.html",
+    "main.22deef3f.css.map": "/paint-world/static/css/main.22deef3f.css.map",
+    "main.a98f285a.js.map": "/paint-world/static/js/main.a98f285a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22deef3f.css",
+    "static/js/main.a98f285a.js"
+  ]
+}
